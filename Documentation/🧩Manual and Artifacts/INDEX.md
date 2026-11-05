@@ -9,5 +9,6 @@ How to use it and how it is built.
 |---|---|
 | [ARCHITECTURE.md](ARCHITECTURE.md) | Architecture — INSTRUMENT.Counter |
 | [SDK.md](SDK.md) | SDK — INSTRUMENT.Counter |
+| [SMOKE.md](SMOKE.md) | Smoke test — INSTRUMENT.Counter |
 | [SDK/](SDK/) | folder |
 <!-- /wiki:index -->
